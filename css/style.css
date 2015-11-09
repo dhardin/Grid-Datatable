@@ -1,0 +1,14 @@
+tr.group, tr.group:hover {
+    background-color: #999 !important;
+    color: #fff;
+}
+tr.group2, tr.group2:hover {
+    background-color: #acc !important;
+}
+#grid {
+    display: none;
+}
+
+.done {
+	display:none;
+}
